@@ -65,11 +65,11 @@ tags: gcp
 
 	- ✅False
 
-1. True or False: if you are migrating your #hadoop workload to the cloud, you must first rewrite all your #spark jobs to be compliant with the cloud.
+1. True or False: if you are migrating your [[hadoop]] workload to the cloud, you must first rewrite all your #spark jobs to be compliant with the cloud.
 
 	- ✅False (You can run your same Spark job code running on the same Hadoop software but running on cloud hardware with [[dataproc]].)
 
-1. You are thinking about migrating your #hadoop workloads to the cloud and you have a few workloads that are fault-tolerant (they can handle interruptions of individual vms gracefully). What are some architecture considerations you should explore in the cloud? choose all that apply
+1. You are thinking about migrating your [[hadoop]] workloads to the cloud and you have a few workloads that are fault-tolerant (they can handle interruptions of individual vms gracefully). What are some architecture considerations you should explore in the cloud? choose all that apply
 
 	- ✅Consider having multiple [[dataproc]] instances for each priority workload and then turning them down when not in use
 	- ✅Use PVMs or Preemptible Virtual Machines
@@ -77,7 +77,7 @@ tags: gcp
 
 1. [[gcs]] is a good option for storing data that: (select the 2 correct options below).
 
-	- ✅May be imported from a bucket into a #hadoop cluster for analysis
+	- ✅May be imported from a bucket into a [[hadoop]] cluster for analysis
 	- ✅May be required to be read at some later time (i.e. load a CSV file into [[bigquery]])
 	- Is ingested in #real-time from sensors and other devices and supports SQL-based queries
 	- Will be accessed frequently and updated constantly with new transactions from a front-end and needs to be stored in a relational database
@@ -127,9 +127,9 @@ tags: gcp
 
 1. Which of the following statements are true about [[dataproc]]? (select all 2 correct answers)
 
-	- Streamlined API for #spark and #hadoop programming
+	- Streamlined API for #spark and [[hadoop]] programming
 	- ✅Helps you create job-specific clusters without HDFS
-	- ✅Lets you run #spark and #hadoop clusters with minimal administration
+	- ✅Lets you run #spark and [[hadoop]] clusters with minimal administration
 
 1. Which of the following statements are true? (select all 2 correct responses) [[dataflow]]
 
@@ -447,4 +447,3 @@ tags: gcp
 	- When using the Interactive Runner, you have to create a logging DoFn to see the values of an intermittent PCollection.
 	- When using the Interactive Runner, if you want to play with the values from a PCollection within a dataframe, you must access them from within a DoFn.
 	- ✅You can use the option include_window_info from ib.show to get extra metadata about each element in a Pcollection. (ib.show(windowed_word_counts, include_window_info=True) can be used.)
-
