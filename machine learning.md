@@ -50,12 +50,19 @@ Utility: get insights from clustering with statistics analysis to identify what'
 
 Overfitting is when a model is so close to its training data that it cannot adapt to the data used for prediction.
 
-The tools to prevent overfitting: less variables, regularization, early ending on the training. 
+The tools to prevent overfitting: less variables, regularization, early ending on the training.
+
 - Adding more training data will increase the complexity of the training set and help with the variance problem.
 - Reducing the feature set will ameliorate the overfitting and help with the variance problem.
 - Increasing the regularization parameter will reduce overfitting and help with the variance problem.
 
 ### Methods
+
+#### Regularization
+
+Use L1 regularization when you need to assign greater importance to more influential features. It shrinks less important feature to 0.
+
+L2 regularization performs better when all input features influence the output & all with the weights are of equal size.
 
 #### Dropout methods
 

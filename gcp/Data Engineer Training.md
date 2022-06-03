@@ -19,8 +19,7 @@ tags: gcp training
 - [Helpful links](https://docs.google.com/document/d/1PuJEr4xnP4yL_tQM4xQvSlBWzk1hn5_jUEcMW3wyrSE/edit#heading=h.r28s2hu0k5wp)
 - [Cloud Architecture Center: Building production-ready data pipelines using Dataflow: Monitoring data pipelines](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-monitoring)
 
-
-- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/15/)
+- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/17/)
 
 ## Learning path: professional data engineer certification
 
@@ -47,7 +46,7 @@ tags: gcp training
 ### Week 5
 
 - [ ] 🎓 Course: [Serverless Data Processing with Dataflow: Operations](https://partner.cloudskillsboost.google/course_templates/264) 📅 2022-05-27
-- [ ] ⭐ Quest: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://partner.cloudskillsboost.google/quests/117) 📅 2022-05-27
+- [x] ⭐ Quest: [Perform Foundational Data, ML, and AI Tasks in Google Cloud](https://partner.cloudskillsboost.google/quests/117) 📅 2022-05-27 ✅ 2022-05-30
 
 ### Week 6
 

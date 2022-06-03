@@ -9,7 +9,7 @@ tags: gcp etl
 # Presentation
 
 - Apache #spark implementation
-- Full #hadoop.
+- Full [[hadoop]].
 - Use case: Lift and shift de solutions on prem. Pas de nouveau jobs
 - Cost effective (variable clusters)
 	- Use of preemptible instances
