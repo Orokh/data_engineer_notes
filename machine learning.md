@@ -105,6 +105,8 @@ Use L1 regularization when you need to assign greater importance to more influen
 
 L2 regularization performs better when all input features influence the output & all with the weights are of equal size.
 
+Parametrization of regularization is very important. If the parameter is too high, the model becomes too simple and tends to *underfit*. On the other hand, if the parameter is too low, the effect of regulatization becomes negligible and the model is likely to *overfit*.
+
 #### Dropout methods
 
 Used for neural networks
