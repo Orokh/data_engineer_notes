@@ -33,15 +33,16 @@ tags: gcp datastorage
 > -   Use [filters](https://cloud.google.com/bigtable/docs/filters) to reduce the amount of data that you read.
 > -   Change your [schema design](https://cloud.google.com/bigtable/docs/schema-design) or your application so that the data in a heavily used row, or in an excessively large row, is spread across multiple rows.
 > -   Update your application to cache the results of reads from Bigtable.
-> 
+>
 > If the **Write pressure index** metric for a key bucket is 100 or greater for a long period of time, you can take the following actions to lower the index:
-> 
+>
 > -   Change your [schema design](https://cloud.google.com/bigtable/docs/schema-design) or your application so that the data in a heavily used row, or in an excessively large row, is spread across multiple rows.
 > -   Update your application to batch and deduplicate writes to Bigtable.
-> 
+>
 > If the **Large rows** metric is present for a key bucket, examine the rows in the highlighted key bucket, then change your [schema design](https://cloud.google.com/bigtable/docs/schema-design) or your application so that less data is stored in those rows.
 
 [Source](https://cloud.google.com/bigtable/docs/keyvis-getting-started)
 
-
 In general, do not use more than 70% of the hard limit on total storage, so you have room to add more data. If you do not plan to add significant amounts of data to your instance, you can use up to 100% of the hard limit.
+
+Clusters can be configured with either HDD (price --, speed --) or SSD (price ++, speed ++)

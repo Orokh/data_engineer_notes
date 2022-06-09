@@ -18,8 +18,9 @@ tags: gcp training
 - [PDE Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLSfkWEzBCP0wQ09ZuFm7G2_4qtkYbfmk_0getojdnPdCYmq37Q/viewscore?viewscore=AE0zAgD9lsmHFyKiInCoRedzT_CkHQyhcdCsdo9Kz5OJcBmgSq3nPyi8BMKEbS8I_uVOUlo)
 - [Helpful links](https://docs.google.com/document/d/1PuJEr4xnP4yL_tQM4xQvSlBWzk1hn5_jUEcMW3wyrSE/edit#heading=h.r28s2hu0k5wp)
 - [Cloud Architecture Center: Building production-ready data pipelines using Dataflow: Monitoring data pipelines](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-monitoring)
+- [Voucher request form](https://docs.google.com/forms/d/e/1FAIpQLSdsns1V1t8lwt5CsMA-Gr4FYbrjId_mgqdAUjKQTJf6Q2QTHg/viewform)
 
-- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/22/)
+- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/25/)
 
 ## Learning path: professional data engineer certification
 
@@ -50,8 +51,8 @@ tags: gcp training
 
 ### Week 6
 
-- [ ] 🧪 Lab: [Optimizing BigQuery for Cost and Performance v1.5](http://googlecourses.qwiklabs.com/catalog_lab/1667) 📅 2022-06-03
-- [ ] 🧪 Lab: [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://googlecourses.qwiklabs.com/focuses/11581?parent=catalog) 📅 2022-06-03
+- [x] 🧪 Lab: [Optimizing BigQuery for Cost and Performance v1.5](http://googlecourses.qwiklabs.com/catalog_lab/1667) 📅 2022-06-03 ✅ 2022-06-06
+- [x] 🧪 Lab: [ETL Processing on Google Cloud Using Dataflow and BigQuery](https://googlecourses.qwiklabs.com/focuses/11581?parent=catalog) 📅 2022-06-03 ✅ 2022-06-06
 
 ### Week 7
 

@@ -9,7 +9,6 @@ tags: gcp etl
 ```mermaid
 flowchart
 	%% Nodes
-	
 	dataproc
 	dataflow
 	

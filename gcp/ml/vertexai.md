@@ -14,4 +14,4 @@ Fully managed service for custom  [[machine learning]] models for training and s
 - hyper-parameter tuning
 - host and autoscale predictions
 - serverless - self-tuning - manages overhead
-- Handles Kubeflow
+- Is a managed version of [[kubeflow]]

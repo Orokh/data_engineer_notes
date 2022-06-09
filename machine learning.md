@@ -7,6 +7,47 @@ tags:
 
 ![[Pasted image 20220429110430.png|700]]
 
+```mermaid
+graph LR
+	%% Nodes
+	s1["There is a historical right answer (Supervised ML)"]
+	s2["I'm just exploring (Unsupervised ML)"]
+	s3["I want to forecast a number (e.g. future sales)"]
+	s4["Try Linear Regression"]
+	s5["I want to classify something"]
+	s6["Binary (buy/no buy)"]
+	s7["Try Logistic Regression"]
+	s8["Multi-Class (high, medium, low risk)"]
+	s9["Try Logistic Regression with multi class option"]
+	s10["I want to recommend something"]
+	s11["Try Matrix Factorization"]
+	s12["Try Clustering"]
+	
+	%% Links
+	s1-->s3
+	s3-->s4
+	s1-->s5
+	s5-->s6
+	s6-->s7
+	s5-->s8
+	s8-->s9
+	s1-->s10
+	s10-->s11
+	s2-->s12
+
+
+	%% Styling
+	classDef blue fill:#4285F1;
+	classDef red fill:#EA433F;
+	classDef yellow fill:#FABB06;
+	classDef green fill:#33A951;
+	
+	class s1,s2 blue
+	class s3,s5,s10 red
+	class s6,s8 yellow
+	class s4,s7,s9,s11,s12 green
+```
+
 ## Classification
 
 Advanced models:

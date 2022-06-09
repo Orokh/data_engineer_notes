@@ -6,8 +6,6 @@ tags: gcp scheduler
 
 # Tasks
 
-![[Pasted image 20220509143124.png|700]]
-
 - Scheduling specific delivery times
 - Delivery rate controls
 - Configurable retries
