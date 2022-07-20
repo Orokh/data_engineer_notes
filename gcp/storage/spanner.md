@@ -8,3 +8,6 @@ tags: gcp datastorage
 
 - Massive global scale
 - Duplication across regions
+
+- Metric to follow for scaling: CPU utilization
+- 

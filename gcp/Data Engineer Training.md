@@ -20,14 +20,14 @@ tags: gcp training
 - [Cloud Architecture Center: Building production-ready data pipelines using Dataflow: Monitoring data pipelines](https://cloud.google.com/architecture/building-production-ready-data-pipelines-using-dataflow-monitoring)
 - [Voucher request form](https://docs.google.com/forms/d/e/1FAIpQLSdsns1V1t8lwt5CsMA-Gr4FYbrjId_mgqdAUjKQTJf6Q2QTHg/viewform)
 
-- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/25/)
+- [Exams blancs](https://www.examtopics.com/exams/google/professional-data-engineer/view/26/)
 
 ## Learning path: professional data engineer certification
 
 ### Week 1
 
 - [x] 🎓 Course: [Google Cloud Big Data and Machine Learning Fundamentals](https://partner.cloudskillsboost.google/course_templates/3) 📅 2022-04-29
-- [ ] ⭐ Quest: [Create and Manage Cloud Resources](https://partner.cloudskillsboost.google/quests/120) 📅 2022-04-29
+- [x] ⭐ Quest: [Create and Manage Cloud Resources](https://partner.cloudskillsboost.google/quests/120) 📅 2022-04-29 ✅ 2022-06-10
 - [x] 🎓 Course: [Modernizing Data Lakes & Data Warehouses with Google Cloud](https://partner.cloudskillsboost.google/course_templates/54) 📅 2022-04-29 ✅ 2022-05-04
 
 ### Week 2
@@ -56,6 +56,6 @@ tags: gcp training
 
 ### Week 7
 
-- [ ] ⭐ Quest: [Engineer Data in Google Cloud](https://partner.cloudskillsboost.google/quests/132) 📅 2022-06-10
-- [ ] 🧪 Lab: [Preparing for the Google Cloud Professional Data Engineer Exam](https://googlecourses.qwiklabs.com/course_templates/72) 📅 2022-06-10
-- [ ] 🏅 Certification: [Professional Data Engineer](https://cloud.google.com/certification/data-engineer) 📅 2022-06-30
+- [x] ⭐ Quest: [Engineer Data in Google Cloud](https://partner.cloudskillsboost.google/quests/132) 📅 2022-06-10 ✅ 2022-06-10
+- [x] 🧪 Lab: [Preparing for the Google Cloud Professional Data Engineer Exam](https://googlecourses.qwiklabs.com/course_templates/72) 📅 2022-06-10 ✅ 2022-06-13
+- [x] 🏅 Certification: [Professional Data Engineer](https://cloud.google.com/certification/data-engineer) 📅 2022-06-30 ✅ 2022-07-19

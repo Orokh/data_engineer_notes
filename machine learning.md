@@ -60,7 +60,7 @@ Advanced models:
 - DNN Regression - Non linear regression
 - XGBoost
 
-## Matric factorization
+## Matrice factorization
 
 Used to create recommendations for users
 
@@ -68,7 +68,7 @@ Used to create recommendations for users
 
 Unsupervised
 
-Explore paterns in the data by clustering data into cluster
+Explore paterns in the data by grouping data into cluster
 
 Utility: get insights from clustering with statistics analysis to identify what's special about each cluster
 
@@ -83,7 +83,7 @@ Utility: get insights from clustering with statistics analysis to identify what'
 
 ## Reinforcement learning
 
-> #reinforcement learning is a method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning #agent is able to perceive and interpret its environment, take actions and learn through trial and error.
+> #reinforcement learning is a method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
 
 [Source](https://www.techtarget.com/searchenterpriseai/definition/reinforcement-learning)
 

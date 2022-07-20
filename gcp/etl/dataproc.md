@@ -10,7 +10,7 @@ tags: gcp etl
 
 - Apache #spark implementation
 - Full [[hadoop]].
-- Use case: Lift and shift de solutions on prem. Pas de nouveau jobs
+- Use case: Lift and shift of on-prem solutions. Not recommended to create new jobs with this service.
 - Cost effective (variable clusters)
 	- Use of preemptible instances
 - Fast and scalable (autoscaling)

@@ -19,4 +19,9 @@ Published models (either public or shared with you)
 
 ## Kubeflow vs vertexai:
 
-Kubeflow manages the complete environment (deps, libs, ...)
+Kubeflow is an open source set of tools for building ML apps on Kubernetes.
+Kubeflow manages the complete environment (deps, libs, ...).
+VertexAI provides kubeflow on a managed infrastructure
+
+# TPU
+https://cloud.google.com/tpu/docs/tpus#when_to_use_tpus

@@ -17,7 +17,7 @@ FlexSlots for shorter spikes in demands (specific to BQ reservation mode)
 - Consider approximate aggregate functions (`approx_count_distinct` instead of `count(distinct)`)
 - Avoid javascript UDFs if possible
 - Instead of joins, prefer nested and repeated fields in denormalized tables
-	- Keep a dimension table under 10GB normalized, unless the date is rarely updated
+	- Keep a dimension table under 10GB normalized, unless the data is rarely updated
 	- Denormalize table over 10GB, unless data manipulation or costs outweigh the benefits of optimal queries
 - Filter early and often
 - Only order if needed, and in the outermost query

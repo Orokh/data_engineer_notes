@@ -103,7 +103,7 @@ When the trigger is triggered multiple times during a window, you can chose what
 
 ## Deduplication
 
-By default, Dataflow stores the message IDs processed in the last 10 minutes. if the same Id is found again, the message is considered #duplicate and discarded
+By default, Dataflow stores the message IDs processed in the last 10 minutes. if the same Id is found again, the message is considered duplicate and discarded
 
 # Compute/storage separation
 
@@ -138,7 +138,7 @@ Reduced batch processing costs because of :
 
 Execution within 6 hours from job creation ==> suitable for jobs not time-critical. Validation at job submission
 
-#  #iam
+# Permissions #iam
 
 Multiple permissions required to run dataflow
 

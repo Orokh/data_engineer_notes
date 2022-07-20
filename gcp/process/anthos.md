@@ -8,7 +8,7 @@ tags: gcp process
 
 Manage K8s clusters
 
-Migrate directly from VMs, Build, deploy, and optimize apps on GKE, Anthos serverless landing zones and VMs anywhere-simply, flexibly, and securely
+Migrate directly from VMs. Build, deploy, and optimize apps on GKE, Anthos serverless landing zones and VMs anywhere-simply, flexibly, and securely
 
 ![[Pasted image 20220608145854.png]]
 

@@ -15,7 +15,7 @@ tags: gcp datastorage
 
 - Keep the key short (<4KB)
 - Store multiple delimited values in each row key
-- create a key that akes it possible to retrieve a well-defined range of rows
+- Create a key that makes it possible to retrieve a well-defined range of rows
 - Use human readable values
 - In many cases, design row keys that start with a common value and end with a granular value
 
