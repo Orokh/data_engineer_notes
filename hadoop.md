@@ -18,3 +18,4 @@ tags: hadoop
 - Use specific operator implementations vs. relying on optimizer
 - Splitting pipeline e.g., do multiple things to intermediate data
 - Use developer’s own code e.g., different ways of loading data
+
